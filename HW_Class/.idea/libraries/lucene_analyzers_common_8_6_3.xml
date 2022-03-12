@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lucene-analyzers-common-8.6.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../2_lucene/kasra/lucene-analyzers-common-8.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../2_lucene/kasra/lucene-core-8.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../2_lucene/kasra/lucene-demo-8.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../2_lucene/kasra/lucene-queryparser-8.6.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../2_lucene/kasra/project_folder/luceneIndexer/lib/lucene-8.6.3/codecs/lucene-codecs-8.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

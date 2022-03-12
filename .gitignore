@@ -1,0 +1,14 @@
+*.ipynb_checkpoints
+*venv*
+/.vscode/
+/HW2/HW2_Group5.rar
+/HW3/.idea/
+/HW3/out/
+/HW3/HW3.iml
+/HW4/.idea/
+/HW4/crawler/__pycache__/
+/HW4/crawler/spiders/__pycache__/
+output
+HW4/.vscode/settings.json
+log*.txt
+*.log

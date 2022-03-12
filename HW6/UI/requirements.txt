@@ -1,0 +1,11 @@
+altgraph
+numpy
+pandas
+pyinstaller
+pyinstaller-hooks-contrib
+PyQt5
+PyQt5-sip
+python-dateutil
+pytz
+six
+pkg-resources
